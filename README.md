@@ -1,2 +1,2 @@
-# kris2xml
-KRIS Lab #2 with xml context file
+# DoCIS Lab #2 XML 
+DoCIS Lab #2 with XML configuration
